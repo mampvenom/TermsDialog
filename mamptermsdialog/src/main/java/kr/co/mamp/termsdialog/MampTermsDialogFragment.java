@@ -179,6 +179,7 @@ public class MampTermsDialogFragment extends DialogFragment {
                         @Override
                         public void onClick(DialogInterface dialog, int which) {
                             handler.cancel();
+                            MampTermsDialogFragment.this.dismissAllowingStateLoss();
                         }
                     })
                     .create().show();
