@@ -22,7 +22,7 @@ Step 2. Add the dependency
 
 ```Groovy
 dependencies {
-	        compile 'com.github.mampvenom:TermsDialog:1.0.0'
+	        compile 'com.github.mampvenom:TermsDialog:1.0.1'
 }
 ```
 
