@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TermsDialog</string>
+    <string name="privacy_statement">Privacy Statement</string>
+    <string name="ssl_certificate_error">SSL Certificate Error</string>
+    <string name="certificate_error">Certificate error</string>
+    <string name="SSL_UNTRUSTED">Certificate is untrusted.</string>
+    <string name="SSL_EXPIRED">Certificate has expired.</string>
+    <string name="SSL_IDMISMATCH">Certificate ID is mismatched.</string>
+    <string name="SSL_NOTYETVALID">Certificate is not yet valid.</string>
+    <string name="ssl_continue_message">Do you want to continue anyway?</string>
+</resources>

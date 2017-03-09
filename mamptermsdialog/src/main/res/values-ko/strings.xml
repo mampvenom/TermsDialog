@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">개인정보 취급방침</string>
+    <string name="ssl_certificate_error">SSL 인증서 오류</string>
+    <string name="certificate_error">인증서 오류</string>
+    <string name="SSL_UNTRUSTED">인증서를 신뢰할 수 없습니다.</string>
+    <string name="SSL_EXPIRED">인증서가 만료되었습니다.</string>
+    <string name="SSL_IDMISMATCH">인증서 ID가 일치하지 않습니다.</string>
+    <string name="SSL_NOTYETVALID">인증서가 아직 유효하지 않습니다.</string>
+    <string name="ssl_continue_message">계속 하시겠습니까?</string>
+</resources>
